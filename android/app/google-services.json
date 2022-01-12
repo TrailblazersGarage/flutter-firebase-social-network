@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "379660075216",
+    "project_id": "flutterfirebasesocialnetwork",
+    "storage_bucket": "flutterfirebasesocialnetwork.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379660075216:android:401021ff3b0dfa06061ed5",
+        "android_client_info": {
+          "package_name": "com.flutterfirebasesocialnetwork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379660075216-9ajlkitvc9vl1on37ffh4e745au7calv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterfirebasesocialnetwork",
+            "certificate_hash": "cb17888235e31ceae6294e36df2385742e8047c6"
+          }
+        },
+        {
+          "client_id": "379660075216-f1i4db2beokpsht5r7tpnlf9eg8acmh8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJR29IQDN01BTrlcw3UKFLI_ok6yCvYMI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379660075216-f1i4db2beokpsht5r7tpnlf9eg8acmh8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

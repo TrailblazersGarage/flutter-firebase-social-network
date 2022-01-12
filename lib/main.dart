@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutterfirebasesocialnetwork/pages/home.dart';
 
 void main() {
   runApp(MyApp());
@@ -11,7 +12,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'FlutterSocialNetwork',
       debugShowCheckedModeBanner: false,
-      home: Text("Welcome"),
+      home: Home(),
     );
   }
 }
